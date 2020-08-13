@@ -1,5 +1,5 @@
-# elevator
-3-floored Elevator controlled by Arduino (Mega)
+# Three-floor Elevator
+Elevator with 3 levels controlled by Arduino (Mega)
 
 The aim of the project was to design and implement a simulation of real fully functional 3-floor elevator with all its features such as ability to transport objects within the floors, smart doors, overweight system and fire alarm system. The simulation consists of the functional breadboard with implemented logic using Arduino integrated into the prototype elevator built using carton. This project is a good practice of solving real life problems using the knowledge and experience obtained during this course.
 
