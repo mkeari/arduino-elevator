@@ -38,7 +38,7 @@ The aim of the project was to design and implement a simulation of real fully fu
 | 6 | Thermistor |
 
 <p align="center">
-  <img width="460" height="300" src="/images/image1.jpg"> <img width="460" height="300" src="/images/close-up.jpg">
+  <img width="350" height="300" src="/images/image1.jpg"> <img width="460" height="300" src="/images/close-up.jpg">
 </p>
 
 <p align="center">
